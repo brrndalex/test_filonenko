@@ -1,4 +1,5 @@
 # **Итоговое задание Python**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Филоненко+Александр+Data+Engineer)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Филоненко+Александр+Data+Engineer)](https://git.io/typing-svg)
 ## TASK: 
 ### 1. В ходе анализа данных из файла необходимо вывести на экран два значения:
 #### a). Определить, какой продукт принес наибольшую выручку.
